@@ -1,5 +1,5 @@
 # ctUniverse
-Comtech Universe, Index Repository of Products, Compute Solutions, and Compute Resources
+Comtech Universe is an Index Repository of Products, Compute Solutions, and Compute Resources
 ## Comtech's Enterprise Solution
 - Comtech Products are tracked by Comtech's Enterprise Resource Planning/Configuration Management (ERP/CM) system
   - Products contain Compute Solutions
