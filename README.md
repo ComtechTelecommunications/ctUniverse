@@ -13,4 +13,4 @@ Comtech Universe, Index Repository of Products, Compute Solutions, and Compute R
 - Compute Resources are not tracked in ERP/CM systems
   - Compute Resources are reusable Intellectual Property (IP) developers can modify and test without restriction
   - When a Compute Resource passes developer testing, it is deployed as a compute solution
-  - When a Compute Solution passes official testing, it is deployed to a product
+  - After a Compute Solution passes official testing, it can be deployed to a product
